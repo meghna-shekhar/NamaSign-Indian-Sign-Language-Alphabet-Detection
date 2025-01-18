@@ -1,4 +1,4 @@
-# Kaggle
+# NamaSign-Indian-Sign-Language-Detection
 
 A repo for Kaggle notebooks.
 
